@@ -5,10 +5,15 @@
 ![正常大小的圆角矩形](https://img.shields.io/badge/location-China-yellow.svg) </br>
 
 收集各类算法题库，持续整理中，所有算法全部 Java 语言实现！！！
-- 单例
-    - [双重检查锁](https://github.com/lightingsui/algorithm/tree/master/src/singleton/DoubleCheckSingleton.java)
-    - [懒汉模式](https://github.com/lightingsui/algorithm/tree/master/src/singleton/IdlerSingleton.java)
-    - [饿汉模式](https://github.com/lightingsui/algorithm/tree/master/src/singleton/HungerSingleton.java)
+- 设计模式
+    - 单例模式
+        - [双重检查锁](https://github.com/lightingsui/algorithm/tree/master/src/designmode/singleton/DoubleCheckSingleton.java)
+        - [懒汉模式](https://github.com/lightingsui/algorithm/tree/master/src/designmode/singleton/IdlerSingleton.java)
+        - [饿汉模式](https://github.com/lightingsui/algorithm/tree/master/src/designmode/singleton/HungerSingleton.java)
+    - 工厂模式
+        - [简单工厂模式](https://github.com/lightingsui/algorithm/tree/master/src/designmode/factory/simple)
+        - [工厂方法模式](https://github.com/lightingsui/algorithm/tree/master/src/designmode/factory/method)
+        - 抽象工厂模式
 - 二叉树
     - [二叉树的前序遍历](https://github.com/lightingsui/algorithm/tree/master/src/tree/PreorderTraversal.java)
     - [二叉树的中序遍历](https://github.com/lightingsui/algorithm/tree/master/src/tree/InorderTraversal.java)

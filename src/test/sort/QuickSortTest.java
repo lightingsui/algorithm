@@ -1,8 +1,5 @@
 package test.sort;
 
-import java.util.Collections;
-import java.util.Comparator;
-
 /**
  * 快速排序测试
  *
@@ -17,13 +14,6 @@ public class QuickSortTest {
         for (int i : arr) {
             System.out.println(i);
         }
-
-        Collections.sort(null, new Comparator<String>() {
-            @Override
-            public int compare(String o1, String o2) {
-                return 0;
-            }
-        });
     }
 
     public static void sort(int[] arr, int left, int  right) {
@@ -40,7 +30,7 @@ public class QuickSortTest {
         int r = right;
         int tmp = arr[left];
 
-        for (int i = left; i <= right; i++) {
+        while (l < r) {
             while(l < r && arr[r] >= tmp) r--;
             while(l < r && arr[l] <= tmp) l++;
 
