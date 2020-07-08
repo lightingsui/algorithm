@@ -19,6 +19,8 @@
     - [二叉树的中序遍历](https://github.com/lightingsui/algorithm/tree/master/src/tree/InorderTraversal.java)
     - [二叉树的后续遍历](https://github.com/lightingsui/algorithm/tree/master/src/tree/PoorerTraversal.java)
     - [二叉树的层次遍历](https://github.com/lightingsui/algorithm/tree/master/src/tree/LevelTraversal.java)
+    - [完全二叉树的验证](https://github.com/lightingsui/algorithm/tree/master/src/tree/CompleteBinaryTreeJudge.java)
+    - [满二叉树的验证](https://github.com/lightingsui/algorithm/tree/master/src/tree/FullBinaryTreeJudge.java)
 - 排序
     - [快速排序](https://github.com/lightingsui/algorithm/tree/master/src/sort/QuickSort.java)
     - [选择排序](https://github.com/lightingsui/algorithm/tree/master/src/sort/SelectSort.java)

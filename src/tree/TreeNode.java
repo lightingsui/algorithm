@@ -18,7 +18,7 @@ public class TreeNode {
     /**
      *          1
      *      2       3
-     *  4      5
+     *  4      5  6    7
      *
      *
      * @return
@@ -27,6 +27,9 @@ public class TreeNode {
         TreeNode treeNode = new TreeNode(1);
         treeNode.left = new TreeNode(2);
         treeNode.right = new TreeNode(3);
+        treeNode.right.right = new TreeNode(7);
+        treeNode.right.left = new TreeNode(6);
+
 
         treeNode.left.left = new TreeNode(4);
         treeNode.left.right = new TreeNode(5);

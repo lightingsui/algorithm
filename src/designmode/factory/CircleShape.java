@@ -12,3 +12,6 @@ public class CircleShape implements Shape {
         System.out.println("画圆形");
     }
 }
+
+
+
