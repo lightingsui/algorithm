@@ -25,7 +25,7 @@
     - [快速排序](https://github.com/lightingsui/algorithm/tree/master/src/sort/QuickSort.java)
     - [选择排序](https://github.com/lightingsui/algorithm/tree/master/src/sort/SelectSort.java)
     - [冒泡排序](https://github.com/lightingsui/algorithm/tree/master/src/sort/BubbleSort.java)
-    - ~~直接插入排序~~
+    - [直接插入排序](https://github.com/lightingsui/algorithm/tree/master/src/sort/InsertSort.java)
     - [二路归并排序](https://github.com/lightingsui/algorithm/tree/master/src/sort/MergeSort.java)
     - ~~堆排序~~
 - 查找
