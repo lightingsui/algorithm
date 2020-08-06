@@ -28,6 +28,9 @@
     - [直接插入排序](https://github.com/lightingsui/algorithm/tree/master/src/sort/InsertSort.java)
     - [二路归并排序](https://github.com/lightingsui/algorithm/tree/master/src/sort/MergeSort.java)
     - ~~堆排序~~
+- LRU
+    - [LRU的LinkedHashMap实现](https://github.com/lightingsui/algorithm/tree/master/src/lru/LruLinkedHashMap.java)
+    - [LRU的HashMap与链表的实现](https://github.com/lightingsui/algorithm/tree/master/src/lru/LruMyself.java)
 - 查找
     - [二分查找](https://github.com/lightingsui/algorithm/tree/master/src/search/BinarySearch.java)
 - 其它
