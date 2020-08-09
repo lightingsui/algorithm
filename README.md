@@ -31,8 +31,15 @@
 - LRU
     - [LRU的LinkedHashMap实现](https://github.com/lightingsui/algorithm/tree/master/src/lru/LruLinkedHashMap.java)
     - [LRU的HashMap与链表的实现](https://github.com/lightingsui/algorithm/tree/master/src/lru/LruMyself.java)
+- LFU
+    - [双端链表（带头尾节点）和哈希表实现](https://github.com/lightingsui/algorithm/tree/master/src/lfu/LFUCache.java)
+    - [双Hash表实现O(1)时间复杂度的LFU](https://github.com/lightingsui/algorithm/tree/master/src/lfu/LFUDoubleHash.java)
+    
 - 查找
     - [二分查找](https://github.com/lightingsui/algorithm/tree/master/src/search/BinarySearch.java)
 - 其它
     - [十进制转二进制](https://github.com/lightingsui/algorithm/tree/master/src/others/BinaryNumber.java)
+    - [多线程循环打印字母](https://github.com/lightingsui/algorithm/tree/master/src/others/MultithreadedPrintAlpha.java)
+    - [多线程循环打印数字](https://github.com/lightingsui/algorithm/tree/master/src/others/MultithreadedPrintNumber.java)
+    - [生产者消费者模型](https://github.com/lightingsui/algorithm/tree/master/src/others/ProducerCustomer.java)
 
