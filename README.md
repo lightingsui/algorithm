@@ -42,4 +42,6 @@
     - [多线程循环打印字母](https://github.com/lightingsui/algorithm/tree/master/src/others/MultithreadedPrintAlpha.java)
     - [多线程循环打印数字](https://github.com/lightingsui/algorithm/tree/master/src/others/MultithreadedPrintNumber.java)
     - [生产者消费者模型](https://github.com/lightingsui/algorithm/tree/master/src/others/ProducerCustomer.java)
+    - [JDBC连接数据库](https://github.com/lightingsui/algorithm/tree/master/src/others/ConnectMySQL.java)
+    
 
