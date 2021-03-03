@@ -18,7 +18,7 @@
     - 策略模式
     - [观察者模式](https://github.com/lightingsui/algorithm/tree/master/src/designmode/observer)
     - 装饰者模式
-    - 命令模式
+    - [命令模式](https://github.com/lightingsui/algorithm/tree/master/src/designmode/command)
 - 二叉树
     - [二叉树的前序遍历](https://github.com/lightingsui/algorithm/tree/master/src/tree/PreorderTraversal.java)
     - [二叉树的中序遍历](https://github.com/lightingsui/algorithm/tree/master/src/tree/InorderTraversal.java)

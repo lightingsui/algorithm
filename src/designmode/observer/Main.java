@@ -1,5 +1,12 @@
 package designmode.observer;
 
+/**
+ * 场景：<br/>一个天气预报类，{@link WeatherData} 是一个
+ * 获取天气信息的类，当其中的温度等信息更新后，实时的通知
+ * {@link Pannel1} 和 {@link Pannel2}
+ *
+ * @author sui
+ */
 public class Main {
     public static void main(String[] args) {
         WeatherData weatherData = new WeatherData();
