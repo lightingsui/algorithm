@@ -16,7 +16,7 @@
         - [工厂方法模式](https://github.com/lightingsui/algorithm/tree/master/src/designmode/factory/method)
         - [抽象工厂模式]()
     - 策略模式
-    - 观察者模式
+    - [观察者模式](https://github.com/lightingsui/algorithm/tree/master/src/designmode/observer)
     - 装饰者模式
     - 命令模式
 - 二叉树
